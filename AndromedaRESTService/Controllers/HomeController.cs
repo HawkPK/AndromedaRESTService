@@ -10,6 +10,8 @@ namespace AndromedaRESTService.Controllers
     {
         public ActionResult Index()
         {
+            int[] newArr;
+
             return View();
         }
 
